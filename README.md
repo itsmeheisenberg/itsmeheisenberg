@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 🤝 I’m looking for help with **Blockchain and**
+- 🤝 I’m looking for help with **Blockchain**
 
 - 💬 Ask me about **Java**
 
